@@ -1,10 +1,10 @@
 # Responsable Red Teaming - Terminal Logging
 
-Recientemente termine un curso dictado por ***[HuskyHacks](https://taggartinstitute.org/p/responsible-red-teaming)*** el cual nos menciona todo lo relacionado con OPSEC, responsabilidades y éticas, la legalidad y como parte responsable en un ejercicio de red team debemos contar con la manera de registrar todo nuestras pruebas y actividades de manera responsable. La imagen es un representación que no debemos olvidar que nuestro OPSEC es una amanera emulada. Responsable, legal y ética.
+Recientemente termine un curso dictado por ***[HuskyHacks](https://taggartinstitute.org/p/responsible-red-teaming)*** el cual nos menciona todo lo relacionado con OPSEC, responsabilidades y éticas, la legalidad y como parte responsable en un ejercicio de red team debemos contar con la manera de registrar todo nuestras pruebas y actividades de manera responsable. La imagen es un representación que no debemos olvidar que nuestro OPSEC es una amenaza emulada. Responsable, legal y ética. **Responsible Red Teaming Operate With Honor**
 
 ![1](img/1.png)
 
-Este articulo es una guía paso a paso de como mantener nuestra responsabilidad y auditar  nuestras actividad durante nuestro engagements,  nos permitirá crear un script para registrar nuestra terminal y consumir estos logs con Elastic, Kibana y Fleet para custodiar, auditar y registrar nuestra actividad como red teamers responsables.
+Este articulo es una guía paso a paso de como mantener nuestra responsabilidad y auditar  nuestras actividad durante los engagements,  nos permitirá crear un script para registrar nuestra terminal y consumir estos logs con Elastic, Kibana y Fleet para custodiar, auditar y registrar nuestra actividad como red teamers responsables.
 
 **Nota:** el contenido aquí no es nuestro y es un paso a paso del curso mencionado anteriormente, pero me parece adecuado compartir el conocimiento.
 
